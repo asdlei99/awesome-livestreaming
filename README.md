@@ -12,3 +12,4 @@
 * 爱奇艺基于容器技术的大规模弹性转码平台: [video](http://www.infoq.com/cn/presentations/large-scale-containeri-transcoding-platform-of-iqiyi) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20151219am-yuke.pdf)
 * 以实时连接场景为目标的一些技术架构探索: [video](http://lock522.b0.upaiyun.com/wangyuhang.mp4) [slide](http://lock522.b0.upaiyun.com/wyh.pdf)
 * 七牛直播云实践之路: [video](http://hd.qiniu.com/arch/history/6) [slide](http://77fycs.com2.z0.glb.qiniucdn.com/pili_technology_sharing.pdf) [note](notes/pili/README.md)
+* 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
