@@ -13,6 +13,9 @@
 * 爱奇艺基于容器技术的大规模弹性转码平台: [video](http://www.infoq.com/cn/presentations/large-scale-containeri-transcoding-platform-of-iqiyi) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20151219am-yuke.pdf)
 * 以实时连接场景为目标的一些技术架构探索: [video](http://lock522.b0.upaiyun.com/wangyuhang.mp4) [slide](http://lock522.b0.upaiyun.com/wyh.pdf)
 * 七牛直播云实践之路: [video](http://hd.qiniu.com/arch/history/6) [slide](http://77fycs.com2.z0.glb.qiniucdn.com/pili_technology_sharing.pdf) [note](notes/pili/README.md)
+* 邓铮: 移动设备硬件编码直播实践: [video](http://musee20160425.b0.upaiyun.com/1deng.mp4) [slide](http://musee20160425.b0.upaiyun.com/1dengzhengpdf.pdf)
+* 羊能卿: 云直播系统架构与实施: [video](http://musee20160425.b0.upaiyun.com/2yang.mp4) [slide](http://musee20160425.b0.upaiyun.com/2yangnengqing.pptx)
+* 王宇航: 浅析低延迟直播协议设计: rtp/rtcp: [video](http://musee20160425.b0.upaiyun.com/3wang.mp4) [slide](http://musee20160425.b0.upaiyun.com/3wangyuhangpdf.pdf)
 
 ### CDN
 * 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
