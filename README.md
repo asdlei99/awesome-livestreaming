@@ -16,6 +16,7 @@
 * 邓铮: 移动设备硬件编码直播实践: [video](http://musee20160425.b0.upaiyun.com/1deng.mp4) [slide](http://musee20160425.b0.upaiyun.com/1dengzhengpdf.pdf)
 * 羊能卿: 云直播系统架构与实施: [video](http://musee20160425.b0.upaiyun.com/2yang.mp4) [slide](http://musee20160425.b0.upaiyun.com/2yangnengqing.pptx)
 * 王宇航: 浅析低延迟直播协议设计: rtp/rtcp: [video](http://musee20160425.b0.upaiyun.com/3wang.mp4) [slide](http://musee20160425.b0.upaiyun.com/3wangyuhangpdf.pdf)
+* 百度袁华良: 百度开放云直播产品架构和关键技术解读: [video](http://www.infoq.com/cn/presentations/baidu-open-cloud-product-architecture-and-key-technical) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160702-baiduslgon-yuanhualiang.pdf)
 
 ### CDN
 * 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
