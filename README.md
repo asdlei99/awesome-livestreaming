@@ -22,3 +22,4 @@
 * 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
 * 阿里云CDN技术演进: [video](http://www.infoq.com/cn/presentations/alibaba-cloud-cdn-technology-evolution) [slide](http://www.slideshare.net/joshzhu/cdn-44527943)
 * `ngx_lua` 在又拍云的应用: 日志收集, 性能调优与服务化: [video](http://www.infoq.com/cn/presentations/application-of-ngx-lua-in-the-upyun) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160715pm-as-shenzhen-zhangcong.pdf)
+* [HolaCDN Technical Docs](https://github.com/hola/cdn)
