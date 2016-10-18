@@ -18,6 +18,7 @@
 * 王宇航: 浅析低延迟直播协议设计: rtp/rtcp: [video](http://musee20160425.b0.upaiyun.com/3wang.mp4) [slide](http://musee20160425.b0.upaiyun.com/3wangyuhangpdf.pdf)
 * 百度袁华良: 百度开放云直播产品架构和关键技术解读: [video](http://www.infoq.com/cn/presentations/baidu-open-cloud-product-architecture-and-key-technical) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160702-baiduslgon-yuanhualiang.pdf)
 * 移动直播技术上的坑与优化经验: [video](http://www.infoq.com/cn/presentations/pit-and-optimization-experience-of-mobile-live-technology) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160716am-as-shenzhen-xuli.pdf)
+* Live-streaming in China with Eva Xiao: [audio](https://analyse.asia/2016/10/18/episode-139-live-streaming-china-eva-xiao/)
 
 ### CDN
 * 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
