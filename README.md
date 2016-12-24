@@ -19,6 +19,11 @@
 * 百度袁华良: 百度开放云直播产品架构和关键技术解读: [video](http://www.infoq.com/cn/presentations/baidu-open-cloud-product-architecture-and-key-technical) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160702-baiduslgon-yuanhualiang.pdf)
 * 移动直播技术上的坑与优化经验: [video](http://www.infoq.com/cn/presentations/pit-and-optimization-experience-of-mobile-live-technology) [slide](http://akshare.b0.upaiyun.com/livestreaming/lecture-20160716am-as-shenzhen-xuli.pdf)
 * Live-streaming in China with Eva Xiao: [audio](http://akshare.b0.upaiyun.com/livestreaming/Episode_139__Live-streaming_in_China_with_Eva_Xiao.mp3)  [article](https://analyse.asia/2016/10/18/episode-139-live-streaming-china-eva-xiao/)
+* 如何开发 10 万在线级别的直播弹幕技术: [video](http://www.infoq.com/cn/presentations/how-to-develop-online-broadcast-barrage-technology)
+* 徐立: 视频直播的三个技术难题: [video](http://www.infoq.com/cn/interviews/interview-with-xuli-talk-video-broadcast)
+* YY 直播应用大数据决胜安全对抗的实践: [video](http://www.infoq.com/cn/presentations/practice-of-big-data-in-yy-live-app)
+* 海量用户的全球实时通信和互动直播云服务: [video](http://www.infoq.com/cn/presentations/global-real-time-communications-and-interactive-live-cloud-services)
+* 直播平台云端架构设计与优化: [video](http://www.infoq.com/cn/presentations/design-and-optimize-of-broadcast-platform-cloud-architecture)
 
 ### CDN
 * 王康: 云时代CDN的新玩法: [video](http://www.infoq.com/cn/interviews/interview-with-wangkang-talk-cloud-cdn)
